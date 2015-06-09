@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010-06-09 21:57:37.015.pas,C:\Documents and Settings\Admin\Moje dokumenty\Borland Studio Projects\Unit1.pas=D:\!BDS2006\Dprojects\gry\fps\FPSForm.pas</Transaction>
+    <Transaction>2010-06-09 21:57:37.015.dfm,C:\Documents and Settings\Admin\Moje dokumenty\Borland Studio Projects\Unit1.dfm=D:\!BDS2006\Dprojects\gry\fps\FPSForm.dfm</Transaction>
+    <Transaction>2010-06-09 21:57:43.640.bdsproj,C:\Documents and Settings\Admin\Moje dokumenty\Borland Studio Projects\Project1.bdsproj=D:\!BDS2006\Dprojects\gry\fps\FPS.bdsproj</Transaction>
+    <Transaction>2010-06-09 23:05:54.843.pas,D:\!BDS2006\Dprojects\gry\fps\FPSForm.pas=</Transaction>
+    <Transaction>2010-06-09 23:05:54.843.dfm,D:\!BDS2006\Dprojects\gry\fps\FPSForm.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>

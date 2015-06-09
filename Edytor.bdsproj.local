@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009-08-08 22:48:00.637.bdsproj,D:\!BDS2006\Dprojects\gry\fps\Edytor.bdsproj=D:\!BDS2006\Dprojects\gry\fps\FPS.bdsproj</Transaction>
+    <Transaction>2009-08-09 10:15:40.296.pas,D:\!BDS2006\Dprojects\gry\fps\Unit1.pas=D:\!BDS2006\Dprojects\gry\fps\StreamInI.pas</Transaction>
+    <Transaction>2009-08-22 13:37:28.609.pas,D:\!BDS2006\Dprojects\gry\fps\AudioSystem.pas=</Transaction>
+    <Transaction>2009-08-24 10:47:03.921.pas,D:\!BDS2006\Dprojects\gry\fps\Unit1.pas=D:\!BDS2006\Dprojects\gry\fps\FMapEdytor.pas</Transaction>
+    <Transaction>2009-08-24 10:47:03.921.dfm,D:\!BDS2006\Dprojects\gry\fps\Unit1.dfm=D:\!BDS2006\Dprojects\gry\fps\FMapEdytor.dfm</Transaction>
+    <Transaction>2009-08-30 19:47:28.359.pas,D:\!BDS2006\Dprojects\gry\fps\Unit1.pas=D:\!BDS2006\Dprojects\gry\fps\GLUtils.pas</Transaction>
+    <Transaction>2010-04-22 18:44:36.390.pas,D:\!BDS2006\Dprojects\gry\fps\Unit1.pas=D:\!BDS2006\Dprojects\gry\fps\FPSMap.pas</Transaction>
+    <Transaction>2010-04-22 18:45:24.000.pas,D:\!BDS2006\Dprojects\gry\fps\FPSMap.pas=</Transaction>
+    <Transaction>2010-04-29 21:49:59.411.pas,D:\!BDS2006\Dprojects\gry\fps\Textures.pas=D:\!BDS2006\Dprojects\gry\fps\GLTextures.pas</Transaction>
+    <Transaction>2010-04-30 13:35:32.453.pas,D:\!BDS2006\Dprojects\gry\fps\Unit1.pas=D:\!BDS2006\Dprojects\gry\fps\AudioSystem.pas</Transaction>
+    <Transaction>2010-04-30 13:35:47.750.pas,D:\!BDS2006\Dprojects\gry\fps\AudioSystem.pas=D:\!BDS2006\Dprojects\gry\fps\SoundSystem.pas</Transaction>
+    <Transaction>2010-04-30 13:41:59.781.pas,D:\!BDS2006\Dprojects\gry\fps\SoundSystem.pas=</Transaction>
+    <Transaction>2010-04-30 19:22:40.250.pas,D:\!BDS2006\Dprojects\gry\fps\Unit1.pas=D:\!BDS2006\Dprojects\gry\fps\FPSPreObj.pas</Transaction>
+    <Transaction>2010-05-08 15:25:13.734.pas,D:\!BDS2006\Dprojects\gry\fps\ScriptEngine.pas=D:\!BDS2006\Dprojects\gry\fps\GameScriptEngine.pas</Transaction>
+    <Transaction>2010-05-08 15:25:23.328.pas,D:\!BDS2006\Dprojects\gry\fps\GameScriptEngine.pas=D:\!BDS2006\Dprojects\gry\fps\ScriptEngine.pas</Transaction>
+    <Transaction>2010-05-08 15:27:37.406.pas,D:\!BDS2006\Dprojects\gry\fps\ScriptEngine.pas=D:\!BDS2006\Dprojects\gry\fps\GameScriptEngine.pas</Transaction>
+    <Transaction>2010-05-08 21:53:41.296.pas,D:\!BDS2006\Dprojects\gry\fps\GameScriptEngine.pas=D:\!BDS2006\Dprojects\gry\fps\FPSScriptEngine.pas</Transaction>
+    <Transaction>2010-05-19 23:35:47.718.pas,D:\!BDS2006\Dprojects\gry\fps\FPSScriptEngine.pas=</Transaction>
+    <Transaction>2010-05-21 21:05:51.640.pas,D:\!BDS2006\Dprojects\gry\fps\Unit1.pas=D:\!BDS2006\Dprojects\gry\fps\FChooseSth.pas</Transaction>
+    <Transaction>2010-05-21 21:05:51.640.dfm,D:\!BDS2006\Dprojects\gry\fps\Unit1.dfm=D:\!BDS2006\Dprojects\gry\fps\FChooseSth.dfm</Transaction>
+    <Transaction>2010-05-28 18:18:16.640.pas,D:\!BDS2006\Dprojects\gry\fps\GLUtils.pas=</Transaction>
+    <Transaction>2010-05-28 18:18:28.218.pas,D:\!BDS2006\Dprojects\gry\fps\GLTextures.pas=D:\!BDS2006\Dprojects\gry\fps\GLUtils.pas</Transaction>
+    <Transaction>2010-05-28 18:18:29.359.pas,D:\!BDS2006\Dprojects\gry\fps\GLUtils.pas=D:\!BDS2006\Dprojects\gry\fps\GLTextures.pas</Transaction>
+    <Transaction>2010-05-28 18:18:39.593.pas,D:\!BDS2006\Dprojects\gry\fps\GLTextures.pas=D:\!BDS2006\Dprojects\gry\fps\GLUtils.pas</Transaction>
+    <Transaction>2010-05-28 18:18:39.734.pas,D:\!BDS2006\Dprojects\gry\fps\GLUtils.pas=D:\!BDS2006\Dprojects\gry\fps\GLTextures.pas</Transaction>
+    <Transaction>2010-05-28 18:19:01.703.pas,D:\!BDS2006\Dprojects\gry\fps\GLTextures.pas=D:\!BDS2006\Dprojects\gry\fps\GLUtils.pas</Transaction>
+    <Transaction>2010-05-30 12:20:02.531.bdsproj,D:\!BDS2006\Dprojects\gry\fps\FPS.bdsproj=D:\!BDS2006\Dprojects\gry\fps\Edytor.bdsproj</Transaction>
+    <Transaction>2010-06-02 17:33:38.937.pas,D:\!BDS2006\Dprojects\gry\fps\FPSUtils.pas=D:\!BDS2006\Dprojects\gry\fps\Utils.pas</Transaction>
+  </Transactions>
+</BorlandProject>
